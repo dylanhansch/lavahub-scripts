@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/bash
 java -Xmx4096M -Xms4096M -Xincgc -XX:MaxPermSize=128M -jar spigot.jar nogui
