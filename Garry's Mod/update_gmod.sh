@@ -1,2 +1,2 @@
 #!/bin/sh
-./steamcmd.sh +runscript update_gmod.txt
+./steamcmd.sh +runscript gmod_ds.txt

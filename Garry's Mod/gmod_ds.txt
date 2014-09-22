@@ -1,3 +1,4 @@
 login anonymous
+force_install_dir /home/steam/gmod
 app_update 4020
 quit
